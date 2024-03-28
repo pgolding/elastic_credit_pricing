@@ -3,6 +3,8 @@
 ## Overview
 This repository contains slides detailing modern/dynamic pricing approaches applied to personal unsecured loans (PUL), authored by Paul Golding in December 2018. The primary goal is to predict a borrower's sensitivity to price to optimize prices for maximum expected profit or other business objectives.
 
+See [slides](pricing_sensitivity_public.pdf)
+
 ## Key Concepts
 
 ### Credit Risk and Terms
